@@ -1,6 +1,7 @@
 # GitHub Events CLI
 
 A simple and fast command-line tool written in Go for fetching **recent GitHub activity/events** of any public GitHub user.
+Sample solution for the [github-user-activity](https://roadmap.sh/projects/github-user-activity) challenge from [roadmap.sh](https://roadmap.sh).
 
 This tool uses the GitHub REST API and displays events like:
 
